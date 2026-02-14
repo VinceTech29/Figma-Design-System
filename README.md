@@ -60,3 +60,9 @@ This project is a Figma-based UI/UX layout focused on building a structured and 
 ## Tools Used
 - Figma
 
+## Figma Design Link
+
+View the full prototype here:
+[https://figma.com/your-design-link](https://www.figma.com/design/lvu8aRjG5g093JEORihdcK/Pablo_Design-Assets?node-id=0-1&t=05vn1O4Qr763jE6o-1)
+
+
