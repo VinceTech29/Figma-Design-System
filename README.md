@@ -60,4 +60,3 @@ This project is a Figma-based UI/UX layout focused on building a structured and 
 ## Tools Used
 - Figma
 
-## File Structure Suggestion
